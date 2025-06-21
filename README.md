@@ -80,21 +80,6 @@ You can change this in the code (`StudentManagement.java`).
 
 ---
 
-## 📸 Screenshots
-
-*(Add IntelliJ or console screenshots here if you'd like)*
-
----
-
-## 👨‍💻 Author
-
-- **Name**: Pradeep T M  
-- 🎓 EEE Student @ KPRIET  
-- 💼 Java & React Developer Aspirant  
-- 🔗 GitHub: [pradeeptm5377](https://github.com/pradeeptm5377)
-
----
-
 ## 📜 License
 
 This project is open-source under the [MIT License](LICENSE)
