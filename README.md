@@ -1,6 +1,6 @@
 # 🎓 Student Management System (Java)
 
-[![Download .jar](https://img.shields.io/badge/Download-JAR-blue?style=for-the-badge&logo=java)](https://github.com/your-username/Student-Management-System-Java/releases/latest)
+[![Download .jar](https://img.shields.io/badge/Download-JAR-blue?style=for-the-badge&logo=java)](https://github.com/Pradeep5377/StudentManagementSystem-Java/releases/latest)
 
 A console-based Java application to manage students and teachers using Object-Oriented Programming (OOP) principles. This system allows you to add/view students and teachers, process fee payments, track salary increments, and monitor overall school finances.
 
@@ -47,11 +47,11 @@ java student.management.StudentManagement
 ```
 
 ### ▶️ Option 2: Run with `.jar` file
-Download the latest `.jar` file from [Releases](https://github.com/your-username/Student-Management-System-Java/releases)
+Download the latest `.jar` file from [Releases](https://github.com/Pradeep5377/StudentManagementSystem-Java/releases)
 
 Then run:
 ```bash
-java -jar "Student Management System.jar"
+java -jar "StudentManagementSystem.jar"
 ```
 
 ---
@@ -88,6 +88,6 @@ This project is open-source under the [MIT License](LICENSE)
 
 ## 📥 Download
 
-👉 [Download Latest `.jar`](https://github.com/your-username/Student-Management-System-Java/releases)
+👉 [Download Latest `.jar`](https://github.com/Pradeep5377/StudentManagementSystem-Java/releases)
 
 ---
